@@ -8,4 +8,4 @@ WORKDIR /opt/apache-tomcat-8.5.100/bin/
 ADD https://s3-us-west-2.amazonaws.com/studentapi-cit/student.war /opt/apache-tomcat-8.5.100/webapps/
 ENV Name="Akshay"
 EXPOSE 8080
-CMD ["executable" ]
+CMD ["" ]
