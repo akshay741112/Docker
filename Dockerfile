@@ -1,2 +1,2 @@
 FROM centos:7
-RUN yum upd
+RUN yum update -yum
