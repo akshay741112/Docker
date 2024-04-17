@@ -1,1 +1,1 @@
-FROM ce
+FROM centos
